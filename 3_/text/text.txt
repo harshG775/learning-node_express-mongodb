@@ -1,0 +1,21 @@
+Thank you for reaching out and giving me the chance to share my past experiences.  Here's a list of websites I've had of built :
+
+1. my Code Learning: An online learning platform designed to help users enhance their coding skills.
+   - Link: [https://mycodelearning.netlify.app/](https://mycodelearning.netlify.app/)
+
+2. Rockox: An E-commerce website offering a variety of products to online shoppers.
+   - Link: [https://rockox.netlify.app/](https://rockox.netlify.app/)
+
+3. signup: A user registration page designed with a focus on user experience and simplicity.
+   - Link: [https://theodin-signup.netlify.app/](https://theodin-signup.netlify.app/)
+
+4. harsh-g: My personal portfolio website, currently a work in progress, showcasing my projects and skills.
+   - Link: [https://harsh-g.netlify.app/](https://harsh-g.netlify.app/)
+
+5. css shadow generator: A handy tool to easily generate CSS box shadows for web elements.
+   - Link: [https://css-shadow-generator.netlify.app/](https://css-shadow-generator.netlify.app/)
+
+6. goblack: An engaging parallax hero section with an integrated navbar for an enhanced user experience.
+   - Link: [https://goblack.netlify.app/](https://goblack.netlify.app/)
+
+Thank you once again for considering my application. Your time and consideration are greatly appreciated.
